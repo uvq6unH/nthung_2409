@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|d:\\code\\code\\c#\\aspnet\\nthung_2409\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\views\\home\\giaiphuongtrinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:views\\home\\giaiphuongtrinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ED31DD-58F1-49C8-A87C-8D351C080CC6}|nthung_2409.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaiPhuongTrinh.cshtml",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\GiaiPhuongTrinh.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GiaiPhuongTrinh.cshtml",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\GiaiPhuongTrinh.cshtml",
+              "RelativeToolTip": "Views\\Home\\GiaiPhuongTrinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T18:02:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:50:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:46:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:29:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:29:41.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:29:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:47:39.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:46:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CODE\\Code\\C#\\ASPNET\\nthung_2409\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:27:23.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
